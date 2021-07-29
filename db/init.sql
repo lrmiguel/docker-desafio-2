@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS `fullcycle-docker-challenge-2`.`people` (id int(20) primary key auto_increment, name varchar(255));
